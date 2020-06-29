@@ -1,4 +1,4 @@
-![alt text](https://github.com/MDFahimAnjum/EEGProjectDataProcess/blob/master/guide/Banner.jpg?raw=true)
+![alt text](https://github.com/MDFahimAnjum/EEG-Data-Processing-Toolbox/blob/master/guide/Banner.jpg?raw=true)
 
 This is a Matlab Toolbox for importing raw EEG data onto Matlab. There are two tools in this toolbox. **Data Importer** and **Data Organizer**
 
